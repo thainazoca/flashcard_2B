@@ -1,6 +1,7 @@
 criaCartao(
     'Futebol'
     'Qual a seleção tem mais copas do mundo?'
+    'Brasil'
 )
 
 criaCartao(
